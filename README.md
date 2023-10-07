@@ -5,16 +5,18 @@ Um modelo de site elaborado, onde pode-se ver curiosidades sobre alguns esportes
 
 ## Índice
 
-- <a>Funcionalidades do Projeto</a>
-- <a>Layout<a>
-- <a>Demonstração</a>
-- <a>Link do site<a>
-- <a>Tecnologias Utilizadas</a>
-- <a>Autor do Projeto<a>
+- <a href="#-funcionalidades-do-projeto">Funcionalidades do Projeto</a>
+- <a href="#-layout">Layout</a>
+- <a href="#-demonstração">Demonstração</a>
+- <a href="#=link-do-site">Link do site</a>
+- <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>
+- <a href="#-autor-do-projeto">Autor do Projeto</a>
 
 ## 💻 Funcionalidades do Projeto
 
--[x] Página principal com links para informações -[x] Login -[x] Registro
+- [x] Página principal com links para informações
+- [x] Login
+- [x] Registro
 
 ## 💻 Layout
 
