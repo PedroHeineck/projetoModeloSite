@@ -30,7 +30,7 @@ Uma amostra da tela de registro do site, onde o usuário pode cadastrar-se e cri
 
 ## 🖥 Demonstração
 
-<a href="https://projeto-modelo-site.vercel.app/index.html" target="_blank"><hr>
+<a href="https://projeto-modelo-site.vercel.app/index.html" target="_blank">Link do site</a><hr>
 
 ## 🛠 Tecnologias Utilizadas
 
