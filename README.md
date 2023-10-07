@@ -3,7 +3,7 @@
 ![Curiosidades dos esportes](./assets/CAPA.png)
 Um modelo de site elaborado, onde pode-se ver curiosidades sobre alguns esportes e também registrar-se e fazer login.
 
-## Índice
+## 📄 Índice
 
 - <a href="#-funcionalidades-do-projeto">Funcionalidades do Projeto</a>
 - <a href="#-layout">Layout</a>
